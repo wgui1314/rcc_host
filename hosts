@@ -1,0 +1,60 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+#47.110.43.236  price.rccchina.com
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+127.0.0.1       activate.navicat.com
+101.37.116.9 hui-price.rccchina.com #15001
+101.37.116.9 hui.iccchina.com       # 15002
+101.37.116.9 hui-search.rccchina.com #15003
+101.37.116.9 hui-search.iccchina.com
+101.37.116.9 hui.icc-api.rccchina.com # 15004
+# 47.111.252.183 hui.price-api.rccchina.com
+101.37.116.9 hui.price-api.rccchina.com # 15005
+#127.0.0.1 hui.price-api.rccchina.com
+127.0.0.1	local-iview.iccchina.com
+127.0.0.1	local-price.rccchina.com
+#116.62.98.78     in.rccchina.com
+#114.55.203.23    auth.rccchina.com
+#47.111.205.28    price.rccchina.com
+#121.40.10.244    jia.rccchina.com
+#47.111.56.167	price.dev.rccchina.com
+185.199.109.133 raw.githubusercontent.com
+101.37.116.9 li-price-api.rccchina.com
+101.37.116.9 li-price.rccchina.com
+101.37.116.9 li.iccchina.com
+101.37.116.9 li-search.iccchina.com
+101.37.116.9 li-icc-api.rccchina.com
+101.37.116.9 li-price-iview.rccchina.com
+101.37.116.9 li.iccchina.com
+101.37.116.9 li-icc-iview.iccchina.com
+101.37.116.9 rose-price.rccchina.com
+101.37.116.9 rose-price-iview.rccchina.com
+47.111.252.183 rose-price-api.rccchina.com
+47.111.252.183 ethan-icc-api.rccchina.com
+199.232.68.133 raw.githubusercontent.com
+#121.40.10.244 icc-solr.rccchina.com
+118.31.8.187 icc-solr.rccchina.com
+47.111.252.183 joyce-price-api.rccchina.com
+47.111.252.183 joyce-price.rccchina.com
+47.111.252.183 joyce.iccchina.com
+47.111.252.183 joyce-search.iccchina.com
+47.111.252.183 joyce-icc-api.rccchina.com
+47.111.252.183 joyce-price-iview.rccchina.com
+47.111.252.183 joyce.iccchina.com
+47.111.252.183 joyce-icc-iview.iccchina.com
+47.111.252.183 mata-price.rccchina.com
+# Added by Docker Desktop
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.docker.internal
+# End of section
+192.168.5.77  solr8
+
+127.0.0.1 windows10.microdone.cn
+127.0.0.1 jorren-api.iccchina.com
+127.0.0.1 jorren-iview.iccchina.com
